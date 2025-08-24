@@ -38,7 +38,7 @@ data\_lake/
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/SEU_USUARIO/seu-repo.git
+   git clone https://github.com/BrunoBDados/Created_MiniProject_DataLake
 ````
 
 2. Instale as dependências:
